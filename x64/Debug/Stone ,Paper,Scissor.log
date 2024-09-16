@@ -1,0 +1,3 @@
+﻿  Stone ,Paper,Scissor.cpp
+F:\Programming&Desines\C++\Projects\Stone ,Paper,Scissor\Stone ,Paper,Scissor.cpp(31,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Stone ,Paper,Scissor.vcxproj -> F:\Programming&Desines\C++\Projects\Stone ,Paper,Scissor\x64\Debug\Stone ,Paper,Scissor.exe
